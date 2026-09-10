@@ -1,0 +1,11 @@
+/home/student01
+├── evidence.txt
+└── project
+    ├── bin
+    │   └── classified.txt
+    ├── docs
+    │   └── report.txt
+    └── scripts
+        └── report.txt
+
+5 directories, 4 files

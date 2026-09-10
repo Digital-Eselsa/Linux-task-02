@@ -1,0 +1,25 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary terminal/editor artifacts
+*.tmp
+*.log
+
+# Python/cache artifacts if tools are used later
+__pycache__/
+*.pyc
+
+# Local secrets/credentials
+.env
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+
+# Optional local command-history artifact
+# Uncomment if you do not want to publish it:
+# commands_used.txt
